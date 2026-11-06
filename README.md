@@ -165,7 +165,7 @@ Make sure the Ollama service is running before executing the Python scripts.
 
 ---
 
-## ▶️ Running the Project
+##Running the Project
 
 Navigate to the `code` directory:
 
