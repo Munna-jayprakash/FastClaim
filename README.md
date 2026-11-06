@@ -1,6 +1,6 @@
 # ClaimFast – AI-Powered Insurance Claim Classification
 
-## 📌 Project Overview
+## Project Overview
 
 **ClaimFast** is an AI-powered insurance claim classification system that uses Large Language Models (LLMs) to extract structured information from unstructured insurance claim descriptions.
 
@@ -10,7 +10,7 @@ The main objective is to compare the performance of **Zero-Shot Prompting** and 
 
 ---
 
-## 🎯 Project Objectives
+##Project Objectives
 
 - Automatically classify insurance claims using an LLM.
 - Extract important information from unstructured claim descriptions.
@@ -21,7 +21,7 @@ The main objective is to compare the performance of **Zero-Shot Prompting** and 
 
 ---
 
-## 🛠️ Technologies Used
+##Technologies Used
 
 - **Python** – Main programming language
 - **Ollama** – Local LLM execution environment
@@ -33,7 +33,7 @@ The main objective is to compare the performance of **Zero-Shot Prompting** and 
 
 ---
 
-## 🧠 Prompting Approaches
+##Prompting Approaches
 
 This project evaluates four different prompting configurations.
 
@@ -79,7 +79,7 @@ Each experiment was evaluated using 20 test records.
 
 ---
 
-## 🔍 Key Findings
+##Key Findings
 
 - **Few-Shot (8 Examples)** achieved the highest accuracy of **90%** and the highest macro F1-score of approximately **0.9101**.
 - **Few-Shot (5 Examples)** achieved the lowest average response latency of approximately **1.2067 seconds**.
@@ -93,7 +93,7 @@ Based on the experimental results, **Few-Shot Prompting with 8 Examples** was th
 
 ---
 
-## 📁 Project Structure
+##Project Structure
 
 ```text
 ClaimFast/
@@ -130,13 +130,12 @@ ClaimFast/
 
 ---
 
-## ⚙️ Installation and Setup
+##Installation and Setup
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/jiteshvishwakarma21/ClaimFast.git
-```
+git clone "https://github.com/Munna-jayprakash/FastClaim.git"
 
 ### 2. Navigate to the Project Directory
 
@@ -222,7 +221,7 @@ python generate_report.py
 
 ---
 
-## 📈 Evaluation Metrics
+##Evaluation Metrics
 
 The project uses the following evaluation metrics:
 
@@ -236,7 +235,7 @@ The project uses the following evaluation metrics:
 
 ---
 
-## ⚠️ Limitations
+##Limitations
 
 - The experiments use a relatively small test dataset of 20 records.
 - Model performance may vary depending on the claim description and prompting strategy.
@@ -246,7 +245,7 @@ The project uses the following evaluation metrics:
 
 ---
 
-## 🚀 Future Improvements
+##Future Improvements
 
 - Increase the size and diversity of the insurance claim dataset.
 - Evaluate additional LLM models.
@@ -258,7 +257,7 @@ The project uses the following evaluation metrics:
 
 ---
 
-## 🏁 Conclusion
+##Conclusion
 
 ClaimFast demonstrates how Large Language Models can be used to automate insurance claim classification and structured information extraction.
 
@@ -268,4 +267,5 @@ The project provides a foundation for further exploration of LLM-based automatio
 
 Author
 MUNNA JAY PRAKASH THAKUR
-GitHub Repository:  # FastClaim
+GitHub Repository: "https://github.com/Munna-jayprakash/FastClaim.git"
+ # FastClaim
